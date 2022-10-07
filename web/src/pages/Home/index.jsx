@@ -12,7 +12,7 @@ export function Home () {
             <div className=" container max-w-4xl flex-1 items-center md:flex-row flex flex-col space-y-4 md:space-y-0 md: space-x-6">
 
                 <div className="md:flex-1 flex justify-center">
-                    <img src="/imgs/photo.png" className="w-full max-w-md" />
+                    <img src="/imgs/photo.png" className="w-full max-w-sm" />
                 </div>
 
                 <div className="md:flex-1 flex flex-col space-y-6">
